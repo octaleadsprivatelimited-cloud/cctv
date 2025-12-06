@@ -479,7 +479,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '24W',
     model: 'Lence - Pipe 45',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light.avif',
     features: ['Motion Sensor', 'Auto Dimming', '4KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -492,7 +492,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '36W',
     model: 'Lence - Pipe 45',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light1.avif',
     features: ['Motion Sensor', 'Auto Dimming', '6KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -505,7 +505,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '50W',
     model: 'Lence - Pipe 47',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light2.avif',
     features: ['Motion Sensor', 'Auto Dimming', '6KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -518,7 +518,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '72W',
     model: 'Lence - Pipe 47',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light3.avif',
     features: ['Motion Sensor', 'Auto Dimming', '6KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -531,7 +531,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '100W',
     model: 'Lence - Pipe 47',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light4.avif',
     features: ['Motion Sensor', 'Auto Dimming', '6KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -544,7 +544,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '150W',
     model: 'Lence - Pipe 65',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light5.avif',
     features: ['Motion Sensor', 'Auto Dimming', '6KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -557,7 +557,7 @@ const allProducts = [
     subCategory: 'Street Light',
     specs: '200W',
     model: 'Lence - Pipe 65',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+    image: '/Street Light6.avif',
     features: ['Motion Sensor', 'Auto Dimming', '6KV Protection', 'Lence'],
     description: 'Street light with inbuilt motion sensor and auto dimming'
   },
@@ -572,7 +572,7 @@ const allProducts = [
     subCategory: '2x2 Panel Light',
     specs: '36W',
     model: '2x2 Concealed',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/2x2 Panel Light.webp',
     features: ['Motion Sensor', 'Auto Dimming', '2x2', 'Concealed'],
     description: '2x2 panel light with inbuilt motion sensor and auto dimming'
   },
@@ -585,7 +585,7 @@ const allProducts = [
     subCategory: '2x2 Panel Light',
     specs: '50W',
     model: '2x2 Concealed',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/2x2 Panel Light1.webp',
     features: ['Motion Sensor', 'Auto Dimming', '2x2', 'Concealed'],
     description: '2x2 panel light with inbuilt motion sensor and auto dimming'
   },
@@ -600,7 +600,7 @@ const allProducts = [
     subCategory: 'COB Light',
     specs: '7W',
     model: 'Concealed',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/COB Light.jpg',
     features: ['Motion Sensor', 'On/Off', '7W', 'Concealed'],
     description: 'COB light with inbuilt motion sensor'
   },
@@ -613,7 +613,7 @@ const allProducts = [
     subCategory: 'COB Light',
     specs: '9W',
     model: 'Concealed',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/COB Light1.jpg',
     features: ['Motion Sensor', 'Auto Dimming', '9W', 'Concealed'],
     description: 'COB light with inbuilt motion sensor and auto dimming'
   },
@@ -626,7 +626,7 @@ const allProducts = [
     subCategory: 'COB Light',
     specs: '12W',
     model: 'Concealed',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/COB Light2.jpg',
     features: ['Motion Sensor', 'Auto Dimming', '12W', 'Concealed'],
     description: 'COB light with inbuilt motion sensor and auto dimming'
   },
@@ -639,7 +639,7 @@ const allProducts = [
     subCategory: 'COB Light',
     specs: '15W',
     model: 'Concealed',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/COB Light3.jpg',
     features: ['Motion Sensor', 'Auto Dimming', '15W', 'Concealed'],
     description: 'COB light with inbuilt motion sensor and auto dimming'
   },
@@ -652,7 +652,7 @@ const allProducts = [
     subCategory: 'COB Light',
     specs: '9W',
     model: 'Concealed Delta',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/COB Light4.jpg',
     features: ['Motion Sensor', 'Auto Dimming', '9W', 'Delta'],
     description: 'COB Delta light with inbuilt motion sensor and auto dimming'
   },
@@ -665,7 +665,7 @@ const allProducts = [
     subCategory: 'COB Light',
     specs: '12W',
     model: 'Concealed Delta',
-    image: 'https://images.unsplash.com/photo-1558002038-1055e2dae1d7?w=800',
+    image: '/COB Light5.jpg',
     features: ['Motion Sensor', 'Auto Dimming', '12W', 'Delta'],
     description: 'COB Delta light with inbuilt motion sensor and auto dimming'
   },
